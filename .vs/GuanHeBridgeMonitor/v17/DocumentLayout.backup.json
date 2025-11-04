@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\services\\hardware\\realplcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:services\\hardware\\realplcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\hubs\\bridgemonitorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:hubs\\bridgemonitorhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\services\\interfaces\\iplcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:services\\interfaces\\iplcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\services\\interfaces\\ibmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:services\\interfaces\\ibmsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\services\\config\\runtimeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:services\\config\\runtimeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\controllers\\vehiclecontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:controllers\\vehiclecontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\wwwroot\\old.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:wwwroot\\old.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\models\\vehicleoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:models\\vehicleoverview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\controllers\\plctestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:controllers\\plctestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\models\\vehiclestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:models\\vehiclestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\models\\batterystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:models\\batterystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\models\\alarmentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:models\\alarmentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\migrations\\20251026094715_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:migrations\\20251026094715_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\guanhebridgemonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:guanhebridgemonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|c:\\users\\98509\\desktop\\fullstack\\guanhebridgemonitor\\models\\camerainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D459F8-9ADD-4349-AC0C-8E5E927A9E74}|GuanHeBridgeMonitor.csproj|solutionrelative:models\\camerainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Workers\\DataSimulatorWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Workers\\DataSimulatorWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Simulation\\MockBmsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Simulation\\MockBmsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Simulation\\MockPlcService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Services\\Simulation\\MockPlcService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAcBAAAAAAAAAADgvxYBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-31T13:40:03.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA4wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:37:47.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAIMCAAAAAAAAAAAhwJUCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-31T14:36:11.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RealPlcService.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Hardware\\RealPlcService.cs",
+              "RelativeDocumentMoniker": "Services\\Hardware\\RealPlcService.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Hardware\\RealPlcService.cs",
+              "RelativeToolTip": "Services\\Hardware\\RealPlcService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:58:59.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlcService.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Interfaces\\IPlcService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPlcService.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Interfaces\\IPlcService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPlcService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:35:02.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBmsService.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Interfaces\\IBmsService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBmsService.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Interfaces\\IBmsService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:41:49.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BridgeMonitorHub.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Hubs\\BridgeMonitorHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\BridgeMonitorHub.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Hubs\\BridgeMonitorHub.cs",
+              "RelativeToolTip": "Hubs\\BridgeMonitorHub.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:36:21.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleControlController.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\VehicleControlController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VehicleControlController.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\VehicleControlController.cs",
+              "RelativeToolTip": "Controllers\\VehicleControlController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:37:15.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RuntimeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Config\\RuntimeConfig.cs",
+              "RelativeDocumentMoniker": "Services\\Config\\RuntimeConfig.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Config\\RuntimeConfig.cs",
+              "RelativeToolTip": "Services\\Config\\RuntimeConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:37:27.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:43:18.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T09:40:19.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleOverview.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\VehicleOverview.cs",
+              "RelativeDocumentMoniker": "Models\\VehicleOverview.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\VehicleOverview.cs",
+              "RelativeToolTip": "Models\\VehicleOverview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:33:33.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "old.html",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\old.html",
+              "RelativeDocumentMoniker": "wwwroot\\old.html",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\old.html",
+              "RelativeToolTip": "wwwroot\\old.html",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAwGMBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T08:10:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogsController.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "Controllers\\LogsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:35:43.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:35:17.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:33:44.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehicleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\VehicleStatus.cs",
+              "RelativeDocumentMoniker": "Models\\VehicleStatus.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\VehicleStatus.cs",
+              "RelativeToolTip": "Models\\VehicleStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:33:45.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataSimulatorWorker.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Workers\\DataSimulatorWorker.cs",
+              "RelativeDocumentMoniker": "Workers\\DataSimulatorWorker.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Workers\\DataSimulatorWorker.cs",
+              "RelativeToolTip": "Workers\\DataSimulatorWorker.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwGcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:36:40.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlcTestController.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\PlcTestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlcTestController.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Controllers\\PlcTestController.cs",
+              "RelativeToolTip": "Controllers\\PlcTestController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wEYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:53:10.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AlarmEntry.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\AlarmEntry.cs",
+              "RelativeDocumentMoniker": "Models\\AlarmEntry.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\AlarmEntry.cs",
+              "RelativeToolTip": "Models\\AlarmEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:32:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BatteryStatus.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\BatteryStatus.cs",
+              "RelativeDocumentMoniker": "Models\\BatteryStatus.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\BatteryStatus.cs",
+              "RelativeToolTip": "Models\\BatteryStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:33:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:41:27.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251026094715_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Migrations\\20251026094715_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251026094715_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Migrations\\20251026094715_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251026094715_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:47:15.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MockBmsService.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Simulation\\MockBmsService.cs",
+              "RelativeDocumentMoniker": "Services\\Simulation\\MockBmsService.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Simulation\\MockBmsService.cs",
+              "RelativeToolTip": "Services\\Simulation\\MockBmsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:35:38.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T08:11:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GuanHeBridgeMonitor.csproj",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\GuanHeBridgeMonitor.csproj",
+              "RelativeDocumentMoniker": "GuanHeBridgeMonitor.csproj",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\GuanHeBridgeMonitor.csproj",
+              "RelativeToolTip": "GuanHeBridgeMonitor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T09:30:20.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CameraInfo.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\CameraInfo.cs",
+              "RelativeDocumentMoniker": "Models\\CameraInfo.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Models\\CameraInfo.cs",
+              "RelativeToolTip": "Models\\CameraInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:33:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MockPlcService.cs",
+              "DocumentMoniker": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Simulation\\MockPlcService.cs",
+              "RelativeDocumentMoniker": "Services\\Simulation\\MockPlcService.cs",
+              "ToolTip": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\Services\\Simulation\\MockPlcService.cs",
+              "RelativeToolTip": "Services\\Simulation\\MockPlcService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:36:00.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

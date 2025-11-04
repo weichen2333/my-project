@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\old.html",
+      "PackagePath": "staticwebassets\\old.html"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1.m3u8",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1.m3u8"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3031.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1_3031.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3032.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1_3032.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3033.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1_3033.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3034.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1_3034.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3035.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1_3035.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3036.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1_3036.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3037.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam1_3037.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2.m3u8",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2.m3u8"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3031.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2_3031.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3032.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2_3032.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3033.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2_3033.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3034.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2_3034.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3035.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2_3035.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3036.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2_3036.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3037.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam2_3037.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3.m3u8",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3.m3u8"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3031.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3_3031.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3032.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3_3032.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3033.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3_3033.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3034.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3_3034.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3035.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3_3035.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3036.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3_3036.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3037.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam3_3037.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4.m3u8",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4.m3u8"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3031.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4_3031.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3032.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4_3032.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3033.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4_3033.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3034.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4_3034.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3035.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4_3035.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3036.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4_3036.ts"
+    },
+    {
+      "Id": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3037.ts",
+      "PackagePath": "staticwebassets\\streams\\veh1_cam4_3037.ts"
+    },
+    {
+      "Id": "obj\\x86\\Debug\\net8.0\\staticwebassets\\msbuild.GuanHeBridgeMonitor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\x86\\Debug\\net8.0\\staticwebassets\\msbuild.GuanHeBridgeMonitor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\x86\\Debug\\net8.0\\staticwebassets\\msbuild.build.GuanHeBridgeMonitor.props",
+      "PackagePath": "build\\GuanHeBridgeMonitor.props"
+    },
+    {
+      "Id": "obj\\x86\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GuanHeBridgeMonitor.props",
+      "PackagePath": "buildMultiTargeting\\GuanHeBridgeMonitor.props"
+    },
+    {
+      "Id": "obj\\x86\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GuanHeBridgeMonitor.props",
+      "PackagePath": "buildTransitive\\GuanHeBridgeMonitor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

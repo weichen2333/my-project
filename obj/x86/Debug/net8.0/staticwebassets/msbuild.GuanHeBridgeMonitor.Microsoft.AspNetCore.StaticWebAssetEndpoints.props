@@ -1,0 +1,412 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"22508"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 15:25:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/index.wzjxr7l72v.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wzjxr7l72v"},{"Name":"integrity","Value":"sha256-hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22508"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 15:25:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/old.9d4ilkxtsj.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\old.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9d4ilkxtsj"},{"Name":"integrity","Value":"sha256-nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/old.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13518"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 13:46:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/old.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\old.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13518"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Oct 2025 13:46:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1.j4cy2u73oh.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j4cy2u73oh"},{"Name":"integrity","Value":"sha256-HeQ0b9B\u002BJBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1.m3u8"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022HeQ0b9B\u002BJBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HeQ0b9B\u002BJBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022HeQ0b9B\u002BJBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3031.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3031.yvu8onhqm6.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yvu8onhqm6"},{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1_3031.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3032.l2n16xzkti.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l2n16xzkti"},{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1_3032.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3032.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3033.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3033.z979e3eoyl.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z979e3eoyl"},{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1_3033.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3034.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3034.wv05nwfl4c.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wv05nwfl4c"},{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1_3034.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3035.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3035.v49vczqvoz.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v49vczqvoz"},{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1_3035.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3036.2x8rdd6qw9.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2x8rdd6qw9"},{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1_3036.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3036.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3037.s931wg8n1v.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s931wg8n1v"},{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam1_3037.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam1_3037.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam1_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2.1dti6aetxm.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1dti6aetxm"},{"Name":"integrity","Value":"sha256-JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC\u002BKiZg="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2.m3u8"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC\u002BKiZg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC\u002BKiZg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC\u002BKiZg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3031.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3031.yvu8onhqm6.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yvu8onhqm6"},{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2_3031.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3032.l2n16xzkti.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l2n16xzkti"},{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2_3032.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3032.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3033.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3033.z979e3eoyl.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z979e3eoyl"},{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2_3033.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3034.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3034.wv05nwfl4c.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wv05nwfl4c"},{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2_3034.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3035.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3035.v49vczqvoz.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v49vczqvoz"},{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2_3035.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3036.2x8rdd6qw9.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2x8rdd6qw9"},{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2_3036.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3036.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3037.s931wg8n1v.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s931wg8n1v"},{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam2_3037.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam2_3037.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam2_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3.abag8on4b4.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"abag8on4b4"},{"Name":"integrity","Value":"sha256-yo\u002BJCQG9THy7K/EoxDcTBaR\u002BYJTbbhkXPvGcEkA5Njk="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3.m3u8"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022yo\u002BJCQG9THy7K/EoxDcTBaR\u002BYJTbbhkXPvGcEkA5Njk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yo\u002BJCQG9THy7K/EoxDcTBaR\u002BYJTbbhkXPvGcEkA5Njk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022yo\u002BJCQG9THy7K/EoxDcTBaR\u002BYJTbbhkXPvGcEkA5Njk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3031.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3031.yvu8onhqm6.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yvu8onhqm6"},{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3_3031.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3032.l2n16xzkti.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l2n16xzkti"},{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3_3032.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3032.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3033.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3033.z979e3eoyl.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z979e3eoyl"},{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3_3033.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3034.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3034.wv05nwfl4c.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wv05nwfl4c"},{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3_3034.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3035.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3035.v49vczqvoz.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v49vczqvoz"},{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3_3035.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3036.2x8rdd6qw9.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2x8rdd6qw9"},{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3_3036.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3036.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3037.s931wg8n1v.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s931wg8n1v"},{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam3_3037.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam3_3037.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam3_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4.79oicurxnw.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"79oicurxnw"},{"Name":"integrity","Value":"sha256-tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4.m3u8"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4.m3u8">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4.m3u8'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"292"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3031.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3031.yvu8onhqm6.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3031.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yvu8onhqm6"},{"Name":"integrity","Value":"sha256-XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4_3031.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"423564"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022XrLinjpplqxUECFD\u002B\u002BYjiysGzaErnkQ6tTKeTxTBWqA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3032.l2n16xzkti.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l2n16xzkti"},{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4_3032.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3032.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3032.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"827764"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc\u002B95qDg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:00:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3033.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3033.z979e3eoyl.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3033.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z979e3eoyl"},{"Name":"integrity","Value":"sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4_3033.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"407396"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3034.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3034.wv05nwfl4c.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3034.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wv05nwfl4c"},{"Name":"integrity","Value":"sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4_3034.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"379948"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM\u002BAcDSlIsws=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3035.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3035.v49vczqvoz.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3035.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v49vczqvoz"},{"Name":"integrity","Value":"sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4_3035.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"386152"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3036.2x8rdd6qw9.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2x8rdd6qw9"},{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4_3036.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3036.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3036.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"777380"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00225sbb6cVxDioTnDZOu\u002BuQ\u002BSF5nAaHIBPmP\u002BK1kSxLNJA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3037.s931wg8n1v.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s931wg8n1v"},{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="},{"Name":"label","Value":"_content/GuanHeBridgeMonitor/streams/veh1_cam4_3037.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GuanHeBridgeMonitor/streams/veh1_cam4_3037.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\streams\veh1_cam4_3037.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"454208"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00220GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 16:01:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

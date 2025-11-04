@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2ggQnUCkwipgTCel+3FaOZ6p7Wdd5/bk/gOlSOM0+W8=",
+  "Source": "GuanHeBridgeMonitor",
+  "BasePath": "_content/GuanHeBridgeMonitor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

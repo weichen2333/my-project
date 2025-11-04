@@ -1,0 +1,579 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8" />
+    <title>灌河大桥 - 远程监控平台 (模拟) - Vue</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        :root {
+            --bg: #111;
+            --panel2: #2a2a2a;
+            --accent: #4e9af1;
+            --ok: #28a745;
+            --err: #dc3545;
+            --text: #f0f0f0;
+            --muted: #aaa
+        }
+
+        * {
+            box-sizing: border-box
+        }
+
+        body {
+            margin: 0;
+            font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+            background: #111;
+            color: var(--text)
+        }
+
+        .nav {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            background: #0b0b0b;
+            padding: 10px 16px;
+            border-bottom: 1px solid #2b2b2b;
+            position: sticky;
+            top: 0;
+            z-index: 100
+        }
+
+        .brand {
+            font-weight: 800
+        }
+
+        .spacer {
+            flex: 1
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 999px;
+            font-size: 12px
+        }
+
+            .badge.ok {
+                background: #1e4d2b;
+                color: #e6f4ea
+            }
+
+            .badge.err {
+                background: #6b211e;
+                color: #fce8e6
+            }
+
+        .container {
+            padding: 16px
+        }
+
+        .layout {
+            display: grid;
+            grid-template-columns: 360px 1fr;
+            gap: 16px
+        }
+
+        @media (max-width:1100px) {
+            .layout {
+                grid-template-columns: 1fr
+            }
+        }
+
+        .left-pane {
+            display: flex;
+            flex-direction: column;
+            gap: 16px
+        }
+
+        .right-pane {
+            display: flex;
+            flex-direction: column;
+            gap: 12px
+        }
+
+        .card {
+            background: var(--panel2);
+            border-radius: 12px;
+            padding: 12px 14px;
+            box-shadow: 0 4px 12px rgba(0,0,0,.35)
+        }
+
+            .card h2 {
+                margin: 0 0 10px 0;
+                color: var(--accent);
+                border-bottom: 1px solid #3a3a3a;
+                padding-bottom: 8px;
+                font-size: 18px
+            }
+
+        .row {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap
+        }
+
+        .btn {
+            padding: 8px 12px;
+            border: none;
+            border-radius: 8px;
+            background: var(--accent);
+            color: #fff;
+            font-weight: 700;
+            cursor: pointer
+        }
+
+            .btn.ghost {
+                background: rgba(255,255,255,.1)
+            }
+
+            .btn.red {
+                background: var(--err)
+            }
+
+            .btn[disabled] {
+                opacity: .6;
+                cursor: not-allowed
+            }
+
+        .muted {
+            color: var(--muted);
+            font-size: 13px
+        }
+
+        .data-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px
+        }
+
+        .data-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 10px;
+            background: #161616;
+            border: 1px solid #333;
+            border-radius: 8px
+        }
+
+        ul.list {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            border: 1px solid #333;
+            background: #161616;
+            border-radius: 8px;
+            overflow: hidden;
+            max-height: 260px;
+            overflow-y: auto
+        }
+
+            ul.list li {
+                padding: 8px 10px;
+                border-bottom: 1px solid #2a2a2a
+            }
+
+                ul.list li:last-child {
+                    border-bottom: none
+                }
+
+        .video-wrap {
+            position: relative;
+            background: #000;
+            border-radius: 12px;
+            overflow: hidden
+        }
+
+            .video-wrap video {
+                width: 100%;
+                height: auto;
+                display: block;
+                background: #000
+            }
+
+        .video-title {
+            position: absolute;
+            left: 8px;
+            bottom: 8px;
+            background: rgba(0,0,0,.45);
+            padding: 4px 8px;
+            border-radius: 6px;
+            font-size: 12px
+        }
+
+        .video-tools {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            display: flex;
+            gap: 8px
+        }
+
+        .tabs {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap
+        }
+
+        .tab {
+            padding: 8px 12px;
+            border-radius: 10px;
+            border: 1px solid #3a3a3a;
+            background: #1b1b1b;
+            color: #ddd;
+            cursor: pointer
+        }
+
+            .tab.active {
+                background: var(--accent);
+                color: #fff;
+                border-color: transparent
+            }
+
+        .grid {
+            display: grid;
+            gap: 12px
+        }
+
+        .grid-2 {
+            grid-template-columns: repeat(2,minmax(0,1fr))
+        }
+
+        @media (max-width:1200px) {
+            .grid-2 {
+                grid-template-columns: 1fr
+            }
+        }
+
+        .feedback {
+            position: fixed;
+            top: 12px;
+            right: 12px;
+            z-index: 1000;
+            display: none;
+            padding: 12px 18px;
+            border-radius: 10px;
+            color: #fff;
+            box-shadow: 0 6px 16px rgba(0,0,0,.5)
+        }
+
+            .feedback.show {
+                display: block
+            }
+
+            .feedback.ok {
+                background: var(--ok)
+            }
+
+            .feedback.err {
+                background: var(--err)
+            }
+    </style>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+    <script src="https://unpkg.com/vue-router@4"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+    <div id="app">
+        <div class="nav">
+            <div class="brand">灌河大桥 - 远程监控平台</div>
+            <a href="#" @click.prevent="$router.push('/control')">远程控制</a>
+            <a href="#" @click.prevent="$router.push('/monitor')">监看界面</a>
+            <a href="#" @click.prevent="$router.push('/settings')">系统设置</a>
+            <a href="#" @click.prevent="$router.push('/logs')">日志管理</a>
+            <div class="spacer"></div>
+            <span class="muted" style="margin-right:8px;">{{ state.username || '操作员' }}</span>
+            <span class="badge" :class="state.connected?'ok':'err'">{{ state.connected?'已连接':'未连接' }}</span>
+        </div>
+
+        <div class="container">
+            <router-view :state="state" :hub="hub" />
+        </div>
+
+        <div class="feedback" :class="['feedback', feedback.show?'show':'', feedback.ok?'ok':'err']">{{ feedback.message }}</div>
+    </div>
+
+    <script>
+const { createApp, reactive, onMounted, ref, computed, watch } = Vue;
+const { createRouter, createWebHistory } = VueRouter;
+
+const state = reactive({
+  username:'操作员',
+  connected:false,
+  vehicleStatus:{ speed:null, voltage:null, current:null, noise:null, runTimeHours:null, batteryPercent:null },
+  batteryStatus:{ batteryPercent:null, workTimeHours:null, voltage:null, current:null, temperature:null },
+  alarms:[],
+  cameras:[]
+});
+
+const feedback = reactive({ show:false, ok:true, message:'' });
+function showFeedback(msg, ok=true){ feedback.message=msg; feedback.ok=ok; feedback.show=true; clearTimeout(showFeedback._t); showFeedback._t=setTimeout(()=>feedback.show=false,2500); }
+
+const hub = new signalR.HubConnectionBuilder().withUrl('/bridgeMonitorHub').withAutomaticReconnect().build();
+
+/* 视频组件 */
+const VideoPlayer = {
+  name:'VideoPlayer',
+  props:['title','sourceType','url'],
+  template:`
+    <div class="video-wrap">
+      <video ref="videoEl" playsinline autoplay muted controls></video>
+      <div class="video-title">{{ title }} · {{ sourceType.toUpperCase() }}</div>
+      <div class="video-tools">
+        <button class="btn ghost" @click="goFullscreen">全屏</button>
+        <button v-if="sourceType==='usb'" class="btn ghost" @click="switchUsb">{{ usbOn?'关闭USB':'开启USB' }}</button>
+      </div>
+    </div>
+  `,
+  setup(props){
+    const videoEl = ref(null), hlsObj = ref(null), usbOn = ref(false);
+    function cleanup(){
+      const v=videoEl.value; try{ if(hlsObj.value){hlsObj.value.destroy(); hlsObj.value=null;} }catch{}
+      try{ if(v){ if(v.srcObject){ v.srcObject.getTracks?.().forEach(t=>t.stop()); v.srcObject=null; } v.pause(); v.removeAttribute('src'); v.load(); }}catch{}
+      usbOn.value=false;
+    }
+    async function play(){
+      cleanup(); const v=videoEl.value; if(!v) return;
+      if(props.sourceType==='hls'){
+        if(Hls.isSupported()){
+          const hls=new Hls({debug:true});
+          hls.on(Hls.Events.ERROR,(e,d)=>{ console.warn('HLS ERROR',d); if(d?.fatal) showFeedback('HLS致命错误：'+(d?.details||d?.type||'unknown'),false); });
+          hls.attachMedia(v); hls.on(Hls.Events.MEDIA_ATTACHED,()=>hls.loadSource(props.url)); hls.on(Hls.Events.MANIFEST_PARSED,()=>v.play().catch(()=>{}));
+          hlsObj.value = hls;
+        }else{ v.src=props.url; v.play().catch(()=>{}); }
+      }else if(props.sourceType==='file'){ v.src=props.url; v.play().catch(()=>{}); }
+      else if(props.sourceType==='usb'){ try{ const s=await navigator.mediaDevices.getUserMedia({video:true,audio:false}); v.srcObject=s; usbOn.value=true; await v.play(); }catch(e){ showFeedback('打开本地摄像头失败：'+e.message,false);} }
+      else if(props.sourceType==='webrtc'){ showFeedback('WebRTC 播放需后台网关支持（预留）', false); }
+    }
+    function goFullscreen(){ const el=videoEl.value; if(!el) return; if(el.requestFullscreen) el.requestFullscreen(); else if(el.webkitRequestFullscreen) el.webkitRequestFullscreen(); }
+    async function switchUsb(){ if(!usbOn.value) await play(); else cleanup(); }
+    onMounted(play); watch(()=>[props.sourceType, props.url], ()=>play(), {flush:'post'});
+    return { videoEl, usbOn, goFullscreen, switchUsb };
+  }
+};
+
+/* 控制页 */
+const ControlView = {
+  components:{ VideoPlayer },
+  props:['state','hub'],
+  template:`
+  <div class="layout">
+    <aside class="left-pane">
+      <div class="card">
+        <h2>远程控制</h2>
+        <div class="row">
+          <button class="btn" :disabled="pending.Start"   @click="sendCmd('Start')">{{ pending.Start?'启动中…':'启动' }}</button>
+          <button class="btn red" :disabled="pending.Stop" @click="sendCmd('Stop')">{{ pending.Stop?'停止中…':'停止' }}</button>
+          <button class="btn" :disabled="pending.Forward"  @click="sendCmd('Forward')">{{ pending.Forward?'前进中…':'前进' }}</button>
+          <button class="btn" :disabled="pending.Reverse"  @click="sendCmd('Reverse')">{{ pending.Reverse?'后退中…':'后退' }}</button>
+        </div>
+        <div class="row" style="margin-top:8px;">
+          <button class="btn ghost" :disabled="pending.Refresh" @click="refreshNow">{{ pending.Refresh?'刷新中…':'刷新状态' }}</button>
+          <button class="btn ghost" :disabled="pending.Ping"    @click="testPlc">{{ pending.Ping?'测试中…':'测试PLC连接' }}</button>
+        </div>
+        <details style="margin-top:8px;">
+          <summary>高级操作（示例写寄存器）</summary>
+          <div class="row" style="margin-top:8px;">
+            <button class="btn" :disabled="pending.Adv1" @click="sendHttp('M3000',1)">写 M3000=1</button>
+            <button class="btn red" :disabled="pending.Adv0" @click="sendHttp('M3000',0)">写 M3000=0</button>
+          </div>
+        </details>
+      </div>
+
+      <div class="card">
+        <h2>检查车运行状态</h2>
+        <div class="data-grid">
+          <div class="data-item"><span>速度 (m/s)</span><span>{{ fmt(state.vehicleStatus.speed) }}</span></div>
+          <div class="data-item"><span>电压 (V)</span><span>{{ fmt(state.vehicleStatus.voltage) }}</span></div>
+          <div class="data-item"><span>电流 (A)</span><span>{{ fmt(state.vehicleStatus.current) }}</span></div>
+          <div class="data-item"><span>噪声 (dB)</span><span>{{ fmt(state.vehicleStatus.noise) }}</span></div>
+          <div class="data-item"><span>运行时间 (h)</span><span>{{ fmt(state.vehicleStatus.runTimeHours) }}</span></div>
+          <div class="data-item"><span>电量 (%)</span><span>{{ fmt(state.vehicleStatus.batteryPercent) }}</span></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>蓄电池状态</h2>
+        <div class="data-grid">
+          <div class="data-item"><span>电量 (%)</span><span>{{ fmt(state.batteryStatus.batteryPercent) }}</span></div>
+          <div class="data-item"><span>剩余时间 (h)</span><span>{{ fmt(state.batteryStatus.workTimeHours) }}</span></div>
+          <div class="data-item"><span>电压 (V)</span><span>{{ fmt(state.batteryStatus.voltage) }}</span></div>
+          <div class="data-item"><span>电流 (A)</span><span>{{ fmt(state.batteryStatus.current) }}</span></div>
+          <div class="data-item"><span>温度 (°C)</span><span>{{ fmt(state.batteryStatus.temperature) }}</span></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>实时报警</h2>
+        <ul class="list">
+          <li v-if="state.alarms.length===0" class="muted">(暂无报警)</li>
+          <li v-for="a in state.alarms" :key="a._k">
+            [{{ time(a.timestamp) }}] {{ a.message }} {{ a.duration?('('+a.duration+')'):'' }}
+            <span v-if="a.isAcknowledged" class="badge ok" style="margin-left:8px;">已确认</span>
+          </li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="right-pane">
+      <div class="card">
+        <h2>摄像头主画面</h2>
+        <div class="tabs" style="margin-bottom:8px;">
+          <button v-for="cam in state.cameras" :key="cam.id"
+                  :class="['tab', currentCamId===cam.id?'active':'']"
+                  @click="currentCamId=cam.id">#{{cam.id}} {{cam.name}}</button>
+        </div>
+        <VideoPlayer v-if="currentCam"
+                     :key="currentCam.id + '-' + currentCam.sourceType + '-' + currentCam.url"
+                     :title="currentCam.name" :sourceType="currentCam.sourceType" :url="currentCam.url"/>
+        <div v-else class="muted">尚未配置摄像头</div>
+      </div>
+    </main>
+  </div>
+  `,
+  setup(props){
+    const fmt=(v)=> (v===null||v===undefined)?'--':v;
+    const time=(t)=> new Date(t).toLocaleString();
+    const currentCamId=ref(1);
+    const currentCam=computed(()=> props.state.cameras.find(c=>c.id===currentCamId.value));
+
+    const pending = reactive({ Start:false, Stop:false, Forward:false, Reverse:false, Refresh:false, Ping:false, Adv1:false, Adv0:false });
+
+    async function sendCmd(cmd){
+      try{ pending[cmd]=true; await props.hub.invoke('SendVehicleCommand',1,cmd); }
+      catch(e){ pending[cmd]=false; showFeedback('命令发送失败：'+e.message,false); }
+    }
+    async function refreshNow(){
+      try{ pending.Refresh=true; await props.hub.invoke('RequestSnapshot',1); }
+      catch(e){ pending.Refresh=false; showFeedback('刷新失败：'+e.message,false); }
+    }
+    async function testPlc(){
+      try{ pending.Ping=true; const r=await fetch('/api/VehicleControl/ping'); const j=await r.json(); pending.Ping=false; if(!r.ok) throw new Error(j.message||'PLC连接异常'); showFeedback(j.message||'PLC连接正常',true); }
+      catch(e){ pending.Ping=false; showFeedback('PLC连接异常：'+e.message,false); }
+    }
+    async function sendHttp(reg,val){
+      try{
+        if(val===1) pending.Adv1=true; else pending.Adv0=true;
+        const r=await fetch('/api/VehicleControl/command',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({register:reg,value:val})});
+        const j=await r.json(); if(!r.ok) throw new Error(j.message||'失败'); showFeedback(j.message||'已发送',true);
+      }catch(e){ showFeedback(e.message,false); }
+      finally{ pending.Adv1=false; pending.Adv0=false; }
+    }
+
+    // 监听后端 CommandResult（统一反馈 & 解除等待）
+    onMounted(()=>{
+      props.hub.on('CommandResult', (res)=>{
+        // res: { vehicleId, command, success, message }
+        showFeedback(res.message || (res.success?'操作成功':'操作失败'), !!res.success);
+        if(res.command && pending.hasOwnProperty(res.command)) pending[res.command] = false;
+        if(res.command === 'RequestSnapshot') pending.Refresh = false;
+      });
+    });
+
+    return { fmt,time,currentCamId,currentCam,pending,sendCmd,refreshNow,testPlc,sendHttp };
+  }
+};
+
+/* 监看页 */
+const VideoPlayerComp = { VideoPlayer };
+const MonitorView = {
+  components:{ VideoPlayer },
+  props:['state'],
+  template:`<div class="grid grid-2">
+      <div class="card" v-for="cam in state.cameras" :key="cam.id">
+        <h2>#{{cam.id}} - {{cam.name}}</h2>
+        <VideoPlayer :key="cam.id + '-' + cam.sourceType + '-' + cam.url"
+                     :title="cam.name" :sourceType="cam.sourceType" :url="cam.url"/>
+      </div>
+    </div>`
+};
+
+/* 系统设置（与之前一致，省略无关改动） */
+const SettingsView = {
+  props:['state'],
+  template:`
+    <div class="grid" style="gap:16px;">
+      <div class="card">
+        <h2>系统参数</h2>
+        <div class="row" style="margin-top:8px;">
+          <button class="btn ghost" @click="reload">重新加载</button>
+        </div>
+      </div>
+      <div class="card">
+        <h2>摄像头配置（1车 · 4路）</h2>
+        <div class="grid grid-2">
+          <div v-for="cam in cameras" :key="cam.id" class="card" style="background:#1f1f1f;">
+            <h3>#{{cam.id}} - {{cam.name}}</h3>
+            <div class="row"><label style="width:80px">名称</label><input v-model="cam.name" style="flex:1" /></div>
+            <div class="row"><label style="width:80px">来源</label>
+              <select v-model="cam.sourceType"><option value="hls">HLS</option><option value="file">File</option><option value="usb">USB</option><option value="webrtc">WebRTC</option></select>
+            </div>
+            <div class="row"><label style="width:80px">URL</label><input v-model="cam.url" style="flex:1" /></div>
+          </div>
+        </div>
+        <div class="row" style="margin-top:8px;">
+          <button class="btn" @click="save">保存摄像头配置</button>
+          <button class="btn ghost" @click="reload">重新加载摄像头配置</button>
+        </div>
+      </div>
+    </div>`,
+  setup(props){
+    const cameras = ref([]);
+    function normalizeCam(cam){
+      if(!cam||!cam.url) return;
+      cam.url = cam.url.replace(/\\/g,'/').trim();
+      if(!cam.url.startsWith('/')) cam.url = '/'+cam.url;
+      if(cam.sourceType==='hls'){
+        const lower = cam.url.toLowerCase();
+        if(!lower.endsWith('.m3u8') && !lower.includes('.')) cam.url += '.m3u8';
+      }
+    }
+    async function load(){ try{ const r=await fetch('/api/config/cameras'); cameras.value=await r.json(); }catch{} }
+    async function save(){
+      try{
+        cameras.value.forEach(normalizeCam);
+        const r=await fetch('/api/config/cameras',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({cameras:cameras.value})});
+        const j=await r.json(); if(!r.ok) throw new Error(j.message||'保存失败'); showFeedback(j.message,true);
+        // 同步全局，立即生效
+        props.state.cameras = JSON.parse(JSON.stringify(cameras.value));
+      }catch(e){ showFeedback(e.message,false); }
+    }
+    async function reload(){ await load(); props.state.cameras=JSON.parse(JSON.stringify(cameras.value)); showFeedback('已重新加载摄像头配置',true); }
+    onMounted(reload);
+    return { cameras, save, reload };
+  }
+};
+
+/* 日志页（略简化） */
+const LogsView = { template:`<div class="card"><h2>报警日志</h2><div class="muted">（此处略）</div></div>` };
+
+/* 路由 */
+const routes=[ {path:'/',redirect:'/control'},{path:'/control',component:ControlView},{path:'/monitor',component:MonitorView},{path:'/settings',component:SettingsView},{path:'/logs',component:LogsView} ];
+const router=createRouter({history:createWebHistory(),routes});
+
+/* 启动 */
+createApp({
+  setup(){
+    function bindHub(){
+      hub.onclose(()=>state.connected=false);
+      hub.onreconnecting(()=>state.connected=false);
+      hub.onreconnected(()=>state.connected=true);
+
+      hub.on('ReceiveVehicleStatus',(s)=>{ state.vehicleStatus=s||{}; });
+      hub.on('ReceiveBatteryStatus',(s)=>{ state.batteryStatus=s||{}; });
+      hub.on('ReceiveAlarm',(a)=>{ a._k=`${a.id||Math.random()}_${Date.now()}`; state.alarms.unshift(a); if(state.alarms.length>200) state.alarms.pop(); });
+
+      // 统一 CommandResult 兜底提示（控制页也会处理，这里作为全局）
+      hub.on('CommandResult', (res)=>{ showFeedback(res.message || (res.success?'操作成功':'操作失败'), !!res.success); });
+    }
+    onMounted(async ()=>{
+      bindHub();
+      try{ await hub.start(); state.connected=true; }catch(e){ state.connected=false; showFeedback('SignalR 连接失败：'+e.message,false); }
+      try{ const r=await fetch('/api/config/cameras'); state.cameras=await r.json(); }catch{}
+    });
+    return { state, hub, feedback };
+  }
+}).use(router).mount('#app');
+    </script>
+</body>
+</html>

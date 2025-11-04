@@ -1,0 +1,3524 @@
+{
+  "Version": 1,
+  "Hash": "phqOrj3tBu1bBdxdpg6qCDqejkHhsSSklDV7vArX7SU=",
+  "Source": "GuanHeBridgeMonitor",
+  "BasePath": "_content/GuanHeBridgeMonitor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GuanHeBridgeMonitor\\wwwroot",
+      "Source": "GuanHeBridgeMonitor",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\index.html",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wzjxr7l72v",
+      "Integrity": "hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\old.html",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "old#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9d4ilkxtsj",
+      "Integrity": "nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\old.html"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1.m3u8",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1#[.{fingerprint}]?.m3u8",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j4cy2u73oh",
+      "Integrity": "HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1.m3u8"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3031.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1_3031#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yvu8onhqm6",
+      "Integrity": "XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1_3031.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3032.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1_3032#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2n16xzkti",
+      "Integrity": "DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1_3032.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3033.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1_3033#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z979e3eoyl",
+      "Integrity": "FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1_3033.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3034.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1_3034#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv05nwfl4c",
+      "Integrity": "vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1_3034.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3035.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1_3035#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v49vczqvoz",
+      "Integrity": "/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1_3035.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3036.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1_3036#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2x8rdd6qw9",
+      "Integrity": "5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1_3036.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3037.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam1_3037#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s931wg8n1v",
+      "Integrity": "0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam1_3037.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2.m3u8",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2#[.{fingerprint}]?.m3u8",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1dti6aetxm",
+      "Integrity": "JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2.m3u8"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3031.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2_3031#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yvu8onhqm6",
+      "Integrity": "XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2_3031.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3032.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2_3032#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2n16xzkti",
+      "Integrity": "DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2_3032.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3033.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2_3033#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z979e3eoyl",
+      "Integrity": "FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2_3033.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3034.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2_3034#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv05nwfl4c",
+      "Integrity": "vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2_3034.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3035.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2_3035#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v49vczqvoz",
+      "Integrity": "/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2_3035.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3036.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2_3036#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2x8rdd6qw9",
+      "Integrity": "5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2_3036.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3037.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam2_3037#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s931wg8n1v",
+      "Integrity": "0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam2_3037.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3.m3u8",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3#[.{fingerprint}]?.m3u8",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "abag8on4b4",
+      "Integrity": "yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3.m3u8"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3031.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3_3031#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yvu8onhqm6",
+      "Integrity": "XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3_3031.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3032.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3_3032#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2n16xzkti",
+      "Integrity": "DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3_3032.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3033.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3_3033#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z979e3eoyl",
+      "Integrity": "FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3_3033.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3034.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3_3034#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv05nwfl4c",
+      "Integrity": "vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3_3034.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3035.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3_3035#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v49vczqvoz",
+      "Integrity": "/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3_3035.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3036.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3_3036#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2x8rdd6qw9",
+      "Integrity": "5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3_3036.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3037.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam3_3037#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s931wg8n1v",
+      "Integrity": "0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam3_3037.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4.m3u8",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4#[.{fingerprint}]?.m3u8",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "79oicurxnw",
+      "Integrity": "tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4.m3u8"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3031.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4_3031#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yvu8onhqm6",
+      "Integrity": "XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4_3031.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3032.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4_3032#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l2n16xzkti",
+      "Integrity": "DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4_3032.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3033.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4_3033#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z979e3eoyl",
+      "Integrity": "FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4_3033.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3034.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4_3034#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv05nwfl4c",
+      "Integrity": "vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4_3034.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3035.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4_3035#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v49vczqvoz",
+      "Integrity": "/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4_3035.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3036.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4_3036#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2x8rdd6qw9",
+      "Integrity": "5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4_3036.ts"
+    },
+    {
+      "Identity": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3037.ts",
+      "SourceId": "GuanHeBridgeMonitor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\",
+      "BasePath": "_content/GuanHeBridgeMonitor",
+      "RelativePath": "streams/veh1_cam4_3037#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s931wg8n1v",
+      "Integrity": "0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\streams\\veh1_cam4_3037.ts"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 15:25:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44="
+        }
+      ]
+    },
+    {
+      "Route": "index.wzjxr7l72v.html",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 15:25:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wzjxr7l72v"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44="
+        }
+      ]
+    },
+    {
+      "Route": "old.9d4ilkxtsj.html",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\old.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 13:46:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9d4ilkxtsj"
+        },
+        {
+          "Name": "label",
+          "Value": "old.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U="
+        }
+      ]
+    },
+    {
+      "Route": "old.html",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\old.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 13:46:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1.j4cy2u73oh.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4cy2u73oh"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1.m3u8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3031.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3031.yvu8onhqm6.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3031.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3032.l2n16xzkti.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3032.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3032.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3033.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3033.z979e3eoyl.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3033.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3034.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3034.wv05nwfl4c.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3034.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3035.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3035.v49vczqvoz.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3035.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3036.2x8rdd6qw9.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3036.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3036.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3037.s931wg8n1v.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3037.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3037.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam1_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2.1dti6aetxm.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1dti6aetxm"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2.m3u8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3031.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3031.yvu8onhqm6.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3031.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3032.l2n16xzkti.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3032.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3032.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3033.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3033.z979e3eoyl.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3033.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3034.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3034.wv05nwfl4c.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3034.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3035.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3035.v49vczqvoz.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3035.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3036.2x8rdd6qw9.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3036.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3036.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3037.s931wg8n1v.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3037.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3037.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam2_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3.abag8on4b4.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "abag8on4b4"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3.m3u8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3031.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3031.yvu8onhqm6.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3031.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3032.l2n16xzkti.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3032.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3032.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3033.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3033.z979e3eoyl.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3033.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3034.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3034.wv05nwfl4c.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3034.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3035.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3035.v49vczqvoz.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3035.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3036.2x8rdd6qw9.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3036.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3036.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3037.s931wg8n1v.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3037.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3037.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam3_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4.79oicurxnw.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79oicurxnw"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4.m3u8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4.m3u8",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3031.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3031.yvu8onhqm6.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3031.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3032.l2n16xzkti.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3032.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3032.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3033.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3033.z979e3eoyl.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3033.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3034.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3034.wv05nwfl4c.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3034.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3035.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3035.v49vczqvoz.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3035.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3036.2x8rdd6qw9.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3036.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3036.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3037.s931wg8n1v.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3037.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3037.ts",
+      "AssetFile": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\wwwroot\\streams\\veh1_cam4_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    }
+  ]
+}

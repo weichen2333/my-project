@@ -1,0 +1,2794 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 15:25:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44="
+        }
+      ]
+    },
+    {
+      "Route": "index.wzjxr7l72v.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 15:25:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wzjxr7l72v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hJWbx8qvH9uTjV8WVLUh3sZV12I4Bqv32RukopmZF44="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "old.9d4ilkxtsj.html",
+      "AssetFile": "old.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 13:46:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9d4ilkxtsj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U="
+        },
+        {
+          "Name": "label",
+          "Value": "old.html"
+        }
+      ]
+    },
+    {
+      "Route": "old.html",
+      "AssetFile": "old.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Oct 2025 13:46:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTuyghlwN80kVNF0zCQkmfCpa0TrHGDYbMCEhyKM17U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1.j4cy2u73oh.m3u8",
+      "AssetFile": "streams/veh1_cam1.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j4cy2u73oh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1.m3u8"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1.m3u8",
+      "AssetFile": "streams/veh1_cam1.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeQ0b9B+JBnup19tAzvtJoRVvYe1pl0hUSeRZTjVpoo="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3031.ts",
+      "AssetFile": "streams/veh1_cam1_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3031.yvu8onhqm6.ts",
+      "AssetFile": "streams/veh1_cam1_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3031.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3032.l2n16xzkti.ts",
+      "AssetFile": "streams/veh1_cam1_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3032.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3032.ts",
+      "AssetFile": "streams/veh1_cam1_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3033.ts",
+      "AssetFile": "streams/veh1_cam1_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3033.z979e3eoyl.ts",
+      "AssetFile": "streams/veh1_cam1_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3033.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3034.ts",
+      "AssetFile": "streams/veh1_cam1_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3034.wv05nwfl4c.ts",
+      "AssetFile": "streams/veh1_cam1_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3034.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3035.ts",
+      "AssetFile": "streams/veh1_cam1_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3035.v49vczqvoz.ts",
+      "AssetFile": "streams/veh1_cam1_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3035.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3036.2x8rdd6qw9.ts",
+      "AssetFile": "streams/veh1_cam1_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3036.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3036.ts",
+      "AssetFile": "streams/veh1_cam1_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3037.s931wg8n1v.ts",
+      "AssetFile": "streams/veh1_cam1_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam1_3037.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam1_3037.ts",
+      "AssetFile": "streams/veh1_cam1_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2.1dti6aetxm.m3u8",
+      "AssetFile": "streams/veh1_cam2.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1dti6aetxm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2.m3u8"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2.m3u8",
+      "AssetFile": "streams/veh1_cam2.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbNKgOfWmuFYCirgqumWxar82xVQwZVYKX51EC+KiZg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3031.ts",
+      "AssetFile": "streams/veh1_cam2_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3031.yvu8onhqm6.ts",
+      "AssetFile": "streams/veh1_cam2_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3031.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3032.l2n16xzkti.ts",
+      "AssetFile": "streams/veh1_cam2_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3032.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3032.ts",
+      "AssetFile": "streams/veh1_cam2_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3033.ts",
+      "AssetFile": "streams/veh1_cam2_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3033.z979e3eoyl.ts",
+      "AssetFile": "streams/veh1_cam2_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3033.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3034.ts",
+      "AssetFile": "streams/veh1_cam2_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3034.wv05nwfl4c.ts",
+      "AssetFile": "streams/veh1_cam2_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3034.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3035.ts",
+      "AssetFile": "streams/veh1_cam2_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3035.v49vczqvoz.ts",
+      "AssetFile": "streams/veh1_cam2_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3035.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3036.2x8rdd6qw9.ts",
+      "AssetFile": "streams/veh1_cam2_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3036.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3036.ts",
+      "AssetFile": "streams/veh1_cam2_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3037.s931wg8n1v.ts",
+      "AssetFile": "streams/veh1_cam2_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam2_3037.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam2_3037.ts",
+      "AssetFile": "streams/veh1_cam2_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3.abag8on4b4.m3u8",
+      "AssetFile": "streams/veh1_cam3.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "abag8on4b4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3.m3u8"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3.m3u8",
+      "AssetFile": "streams/veh1_cam3.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yo+JCQG9THy7K/EoxDcTBaR+YJTbbhkXPvGcEkA5Njk="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3031.ts",
+      "AssetFile": "streams/veh1_cam3_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3031.yvu8onhqm6.ts",
+      "AssetFile": "streams/veh1_cam3_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3031.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3032.l2n16xzkti.ts",
+      "AssetFile": "streams/veh1_cam3_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3032.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3032.ts",
+      "AssetFile": "streams/veh1_cam3_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3033.ts",
+      "AssetFile": "streams/veh1_cam3_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3033.z979e3eoyl.ts",
+      "AssetFile": "streams/veh1_cam3_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3033.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3034.ts",
+      "AssetFile": "streams/veh1_cam3_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3034.wv05nwfl4c.ts",
+      "AssetFile": "streams/veh1_cam3_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3034.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3035.ts",
+      "AssetFile": "streams/veh1_cam3_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3035.v49vczqvoz.ts",
+      "AssetFile": "streams/veh1_cam3_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3035.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3036.2x8rdd6qw9.ts",
+      "AssetFile": "streams/veh1_cam3_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3036.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3036.ts",
+      "AssetFile": "streams/veh1_cam3_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3037.s931wg8n1v.ts",
+      "AssetFile": "streams/veh1_cam3_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam3_3037.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam3_3037.ts",
+      "AssetFile": "streams/veh1_cam3_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4.79oicurxnw.m3u8",
+      "AssetFile": "streams/veh1_cam4.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79oicurxnw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4.m3u8"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4.m3u8",
+      "AssetFile": "streams/veh1_cam4.m3u8",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tQDcWoDmwVbD1v55tf7BZbhSSBQSbGDISpAdZlSYTjs="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3031.ts",
+      "AssetFile": "streams/veh1_cam4_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3031.yvu8onhqm6.ts",
+      "AssetFile": "streams/veh1_cam4_3031.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "423564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yvu8onhqm6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XrLinjpplqxUECFD++YjiysGzaErnkQ6tTKeTxTBWqA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3031.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3032.l2n16xzkti.ts",
+      "AssetFile": "streams/veh1_cam4_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l2n16xzkti"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3032.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3032.ts",
+      "AssetFile": "streams/veh1_cam4_3032.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "827764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DUX7e7qoUfAVJGRldonh2TDyZeys2o1JbBrDc+95qDg="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3033.ts",
+      "AssetFile": "streams/veh1_cam4_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3033.z979e3eoyl.ts",
+      "AssetFile": "streams/veh1_cam4_3033.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "407396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z979e3eoyl"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FycsEJpR/Akm6afYc5/xvB/WW1n09ZIo3WXIQrQO5lQ="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3033.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3034.ts",
+      "AssetFile": "streams/veh1_cam4_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3034.wv05nwfl4c.ts",
+      "AssetFile": "streams/veh1_cam4_3034.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "379948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:01 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv05nwfl4c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vLpmLzkcQ/AIZXUylANn5UC7uhY8DZhLM+AcDSlIsws="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3034.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3035.ts",
+      "AssetFile": "streams/veh1_cam4_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3035.v49vczqvoz.ts",
+      "AssetFile": "streams/veh1_cam4_3035.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "386152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v49vczqvoz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/5fzyUbuuDkqaupcwG2vjo8QpSpWJt1UxeZf5xScl0U="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3035.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3036.2x8rdd6qw9.ts",
+      "AssetFile": "streams/veh1_cam4_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2x8rdd6qw9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3036.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3036.ts",
+      "AssetFile": "streams/veh1_cam4_3036.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777380"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5sbb6cVxDioTnDZOu+uQ+SF5nAaHIBPmP+K1kSxLNJA="
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3037.s931wg8n1v.ts",
+      "AssetFile": "streams/veh1_cam4_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s931wg8n1v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        },
+        {
+          "Name": "label",
+          "Value": "streams/veh1_cam4_3037.ts"
+        }
+      ]
+    },
+    {
+      "Route": "streams/veh1_cam4_3037.ts",
+      "AssetFile": "streams/veh1_cam4_3037.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "454208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Oct 2025 16:01:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GacJkk9tzdP8xg0wuU70uzwKv96FeU/CGCSO16ZgA4="
+        }
+      ]
+    }
+  ]
+}
