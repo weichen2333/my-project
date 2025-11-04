@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\GuanHeBridgeMonitor.csproj": {}
+    "C:\\Users\\fan\\Desktop\\my-project\\GuanHeBridgeMonitor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\GuanHeBridgeMonitor.csproj": {
+    "C:\\Users\\fan\\Desktop\\my-project\\GuanHeBridgeMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\GuanHeBridgeMonitor.csproj",
+        "projectUniqueName": "C:\\Users\\fan\\Desktop\\my-project\\GuanHeBridgeMonitor.csproj",
         "projectName": "GuanHeBridgeMonitor",
-        "projectPath": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\GuanHeBridgeMonitor.csproj",
-        "packagesPath": "C:\\Users\\98509\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\98509\\Desktop\\fullstack\\GuanHeBridgeMonitor\\obj\\",
+        "projectPath": "C:\\Users\\fan\\Desktop\\my-project\\GuanHeBridgeMonitor.csproj",
+        "packagesPath": "C:\\Users\\fan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fan\\Desktop\\my-project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\98509\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
